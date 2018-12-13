@@ -3,6 +3,8 @@ INTRODUCTION
 	
 	This project is of an interactive command line utility that provides the ability to modify and 
 	examine the memory and also provides basic memory test functionality.
+	
+	Project members: Sanju Prakash Kannioth, Sorabh Gandhi
 
 PROJECT FOLDER
 --------------
